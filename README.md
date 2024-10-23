@@ -9,7 +9,7 @@ A simple Python script that scrapes restaurant information from Google Maps for 
    ```bash
    pip install selenium
    ```
-3. Make sure you have Chrome browser and ChromeDriver installed
+3. Make sure you have Chrome browser installed
 
 ## How to Use
 
